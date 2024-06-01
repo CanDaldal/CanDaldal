@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://github.com/CanDaldal/CanDaldal/blob/main/DVx4.gif?raw=true" > 
 </div>
 
 ###
