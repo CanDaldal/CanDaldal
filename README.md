@@ -47,7 +47,6 @@
 </div>
 
 ###
-
 <img src="https://raw.githubusercontent.com/CanDaldal/CanDaldal/output/snake.svg" alt="Snake animation" />
 
 ###
